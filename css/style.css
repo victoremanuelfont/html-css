@@ -1,0 +1,15 @@
+
+/* 1 - integração */
+h1{
+    color: blue;
+}
+
+/* 2 - ID */
+#title{
+    color: green;
+}
+
+/* 3 - Classes */
+.text{
+    color:aqua; 
+}
