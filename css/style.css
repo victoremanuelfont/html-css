@@ -32,5 +32,45 @@ h1{
 .background-image{
     background-image: url("../img/composicao-da-atmosfera-da-terra-2.jpg");
     padding: 100px;
+    color:blueviolet;
+}
+
+/* 7 largura e altura */
+#width-height{
+    width: 200px;
+    height: 100px;
+    background-color: black;
+}
+
+/* 8 padding */
+#padding{
+    background-color: brown;
+    padding: 20px;
+}
+
+/* 9 Margin */
+#margin{
+    width: 200px;
+    height: 100px;
+    background-color: green;
+}
+
+/* 10 Border */
+#border{
+    border: 3px solid red;
+    width: 200px;
+    height: 100px;
+    padding: 40px;
+    margin: 30px;
+}
+
+/* 10 Border radius */
+#border-radius{
+    width: 200px;
+    height: 200px;
+    background: red;
+    border: 2px solid blue;
+    border-radius: 10px;
+
 }
 
