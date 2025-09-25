@@ -11,5 +11,26 @@ h1{
 
 /* 3 - Classes */
 .text{
+    color:black; 
+}
+
+/* 4 -background */
+.background{
+    background-color: brown;
+}
+
+/* 5 - Dois elementos, uma regra */
+.variavel, .tittle-small{
     color:aqua; 
 }
+
+.tittle-small{
+    font-size: 25px;
+}
+
+/* 6 - background image */
+.background-image{
+    background-image: url("../img/composicao-da-atmosfera-da-terra-2.jpg");
+    padding: 100px;
+}
+
