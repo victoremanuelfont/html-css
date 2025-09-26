@@ -74,3 +74,77 @@ h1{
 
 }
 
+/* 11 - cores */
+#rgb, #hsl, #hex{
+    width:50px;
+    height:50px;
+    margin:10px;
+}
+
+#hex{
+    background-color: #3d9c38;
+}
+
+#rgb{
+    background-color: rgb(145, 36, 115);
+}
+
+#hsl{
+    background-color: hsl(99, 24%, 44%);
+}
+
+/* 12 - Alinhamento */
+#center{
+    text-align:center;
+}
+
+/* 13- Decoration */
+#underline{
+    text-decoration: underline;
+}
+
+#line{
+    text-decoration: line-through;
+}
+
+#sem-underline{
+    text-decoration: none;
+}
+
+
+/* 14 - FONT SIZE */
+#font-pequena{
+    font-size: 10px;
+}
+
+/* 15 - transform */
+#upper{
+    text-transform: uppercase;
+}
+
+#lower{
+    text-transform: lowercase;
+}
+
+/* 16 - font family */
+#serif{
+    font-family: Georgia;
+}
+
+#sans-serif{
+    font-family: helvetica;
+}
+
+#cursive{
+    font-family: cursive;
+}
+
+/* 17 - display */
+.inline{
+    width: 50px;
+    height:50px;
+    background-color: red;
+    margin: 10px;
+    display: inline-block;
+}
+
